@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Soy una chica curiosa y apasionada por el desarrollo de software. Actualmente, me desempeño como Desarrolladora de Software, donde cada día es una nueva oportunidad para aprender, estudiar y enfrentar emocionantes desafíos tecnológicos.<br><br>🎹 Además de mi pasión por la informática, la programación y el desarrollo, encuentro armonía tocando el piano en mi tiempo libre. 🎶<br><br>🚀 Me motiva la constante innovación y la búsqueda de soluciones creativas para contribuir al progreso tecnológico. Siempre estoy dispuesta a aprender y colaborar en proyectos que desafíen mi conocimiento y me permitan seguir creciendo.<br><br>📮 ¡Conéctate conmigo en LinkedIn: Sara Morales! Estoy aquí para inspirar, aprender y hacer una diferencia positiva en la sociedad a través de la tecnología.🌟
 
 
